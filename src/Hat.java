@@ -4,4 +4,6 @@ public class Hat {
     // his hat
     //her hat
 
+    //we need a hat to wear in a hot summer day
+
 }
