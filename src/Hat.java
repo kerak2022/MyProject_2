@@ -6,4 +6,7 @@ public class Hat {
 
     //we need a hat to wear in a hot summer day
 
+    // added more lines
+
+
 }
